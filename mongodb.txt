@@ -1,0 +1,8 @@
+// https://alhayatbackend-huzaifa11193s-projects.vercel.app
+
+http://localhost:9000
+
+
+// mongodb+srv://huzaifa:huzaifa123@cluster0.gpyh2tw.mongodb.net/alhayat?retryWrites=true&w=majority
+
+mongodb://127.0.0.1:27017
